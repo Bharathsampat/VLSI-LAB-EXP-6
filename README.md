@@ -1,18 +1,20 @@
 # VLSI-LAB-EXP-6
 
-SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
+# SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
 
-AIM:
+DATE:
+
+**AIM:**
 
 To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
-APPARATUS REQUIRED:
+**APPARATUS REQUIRED:**
  
 1.Laptop with MobaXterm
 
 2.Cadence tool
 
-PROCEDURE
+**PROCEDURE:**
 
 SCHEMATIC ENTRY:
 
@@ -203,20 +205,11 @@ NAND SIMULATION WITH SPECTRA
 ![WPS Photos8](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/45dfa853-6889-4368-b2cf-5374378a6140)
 
 
-
-
-
-
-
 CMOS NOR GATE
 
 NOR SCHEMATIC
 
 ![WPS Photos(9)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/2169a189-aeb8-43e2-9c03-4cb13912a342)
-
-
-
-
 
 
 NOR TEST CELL VIEW
@@ -229,7 +222,7 @@ NOR SIMULATION WITH SPECTRA
 ![WPS Photos(11)](https://github.com/CalebSamraj14/VLSI-LAB-EXP-6/assets/163808923/ca0d0123-8544-4693-9377-1702e4058300)
 
 
-RESULT:
+**RESULT:**
 
   Thus the design and simulation of CMOS inverter and observing the DC and transient responses using cadence tool is done successfully.
 
